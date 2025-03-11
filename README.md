@@ -24,5 +24,6 @@ A simple program made in java with **zxing** 2 generate a QR code from a custom 
   ```
 
 And that's it! Your QR code is ready to use.
+#
 **your 2 slow**
 
