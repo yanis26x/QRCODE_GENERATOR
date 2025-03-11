@@ -1,6 +1,7 @@
 # QR Code Generator
 
 ![QR Code](./ScreenShot/QRCODE26x.PNG)
+**User friendly version coming soon !**
 
 A simple program made in java with **zxing** 2 generate a QR code from a custom URL and logo. Quick to set up and easy to use.
 
