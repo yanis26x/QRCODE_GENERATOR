@@ -1,2 +1,2 @@
 # QRCODE_GENERATOR
- QRcode generator made in java with zxing
+user friendly version coming soon.....
