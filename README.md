@@ -10,9 +10,9 @@ A simple program to generate a QR code from a custom URL with an optional logo. 
   ```
   src/main/java/yanis26x
   ```
-- Replace the URL in the code with your desired link.
-- Customize the QR code color (black & white is recommended).
-- Change the logo by replacing `sonic_logo.png` with your own image:
+- Replace the URL in the code with your desired link.**line 76**
+- Customize the QR code color (black & white is recommended).**line 25**
+- Change the logo by replacing `sonic_logo.png` with your own image:**line 78**
   ```
   data/your_logo_here.png
   ```
