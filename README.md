@@ -1,6 +1,6 @@
 # QR Code Generator
 
-![QR Code](./data/QR_CODE.PNG)
+![QR Code](./ScreenShot/QRCODE26x.PNG)
 
 A simple program to generate a QR code from a custom URL with an optional logo. Quick to set up and easy to use.
 
