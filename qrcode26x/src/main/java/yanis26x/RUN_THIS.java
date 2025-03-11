@@ -13,7 +13,7 @@ import java.awt.image.BufferedImage;
 import java.io.File;
 import java.util.Objects;
 
-public class ServiceQRcode {
+public class RUN_THIS {
 
     public static boolean createQRcode(QRcode qrcode, String logoPath) {
         BitMatrix bitMatrix;
