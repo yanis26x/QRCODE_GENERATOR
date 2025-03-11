@@ -2,7 +2,7 @@
 
 ![QR Code](./ScreenShot/QRCODE26x.PNG)
 
-A simple program to generate a QR code from a custom URL with an optional logo. Quick to set up and easy to use.
+A simple program made in java with **zxing** 2 generate a QR code from a custom URL and logo. Quick to set up and easy to use.
 
 ## Usage
 
@@ -24,4 +24,5 @@ A simple program to generate a QR code from a custom URL with an optional logo. 
   ```
 
 And that's it! Your QR code is ready to use.
+**your 2 slow**
 
